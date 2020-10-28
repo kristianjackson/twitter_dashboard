@@ -1,0 +1,5 @@
+/venv
+/twitter_credentials.py
+/.vscode
+/__pycache__
+/tweets.txt
